@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "medialink"
-version = "0.1.2"
+version = "0.1.3"
 description = "Medialink is a Python CLI-tool for bringing order to your digital film and tv-show library."
 authors = ["Josef Anhede <josefanhede@gmail.com>"]
 readme = "README.md"

@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file
 
+## 0.1.3 - 2024-11-03
+
+- Change wrong license in readme
+
+
 ## 0.1.2 - 2024-11-03
 
 - Add logo to readme

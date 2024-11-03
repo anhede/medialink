@@ -69,4 +69,4 @@ poetry run medialink --help # Run the tool!
 ```
 
 ## License
-Medialink is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+Medialink is licensed under the GPL-3.0-or-later License. See [LICENSE](LICENSE) for more information.
