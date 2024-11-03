@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "ruff.lineLength": 88,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.ruff": "always"
+    },
+    "mypy.runUsingActiveInterpreter": true,
+}
